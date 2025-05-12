@@ -39,16 +39,13 @@
 
 ### 🚀 Featured Projects
 
-#### 🔹 [Quizora](https://github.com/AmarKoonar/quizora)
+#### 🔹 [Quizora]()
 AI-powered quiz generator using OpenAI API, Next.js, and TailwindCSS. Generates personalized quizzes based on user-selected topics.
 
-#### 🔹 [Posture Detection App](https://github.com/AmarKoonar/posture-detector)
+#### 🔹 [Posture Detection App](https://github.com/AmarKoonar/posture-detector](https://github.com/AmarKoonar/posture_corrector)
 Desktop app that uses webcam + MediaPipe to detect bad posture and alert the user in real time.
 
-#### 🔹 [MapReduce Framework](https://github.com/AmarKoonar/mapreduce-c)
-Multi-threaded MapReduce framework built in C using POSIX threads. Super fast and scalable for large text files.
-
-#### 🔹 [Personal Portfolio](https://amrajkoonar.github.io/)
+#### 🔹 [SFU WeatherBot]([https://amrajkoonar.github.io/](https://github.com/AmarKoonar/SFU-weather-twitter-bot))
 Fully responsive animated portfolio site built with Next.js, Framer Motion, and TailwindCSS.
 
 ---

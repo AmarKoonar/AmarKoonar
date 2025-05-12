@@ -45,8 +45,9 @@ AI-powered quiz generator using OpenAI API, Next.js, and TailwindCSS. Generates 
 #### 🔹 [Posture Detection App](https://github.com/AmarKoonar/posture-detector](https://github.com/AmarKoonar/posture_corrector)
 Desktop app that uses webcam + MediaPipe to detect bad posture and alert the user in real time.
 
-#### 🔹 [SFU WeatherBot]([https://amrajkoonar.github.io/](https://github.com/AmarKoonar/SFU-weather-twitter-bot))
-Fully responsive animated portfolio site built with Next.js, Framer Motion, and TailwindCSS.
+#### 🔹 [Posture Detection App](https://github.com/AmarKoonar/posture_corrector)  
+Desktop app that uses webcam + MediaPipe to detect bad posture and alert the user in real time.
+
 
 ---
 

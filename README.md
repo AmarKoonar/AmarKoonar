@@ -39,14 +39,16 @@
 
 ### 🚀 Featured Projects
 
-#### 🔹 [Quizora]()
+#### 🔹 [Quizora](https://github.com/AmarKoonar/quizora)
 AI-powered quiz generator using OpenAI API, Next.js, and TailwindCSS. Generates personalized quizzes based on user-selected topics.
 
-#### 🔹 [Posture Detection App](https://github.com/AmarKoonar/posture-detector](https://github.com/AmarKoonar/posture_corrector)
+#### 🔹 [Posture Detection App](https://github.com/AmarKoonar/posture_corrector)
 Desktop app that uses webcam + MediaPipe to detect bad posture and alert the user in real time.
 
-#### 🔹 [Posture Detection App](https://github.com/AmarKoonar/posture_corrector)  
-Desktop app that uses webcam + MediaPipe to detect bad posture and alert the user in real time.
+#### 🔹 [SFU WeatherBot](https://github.com/AmarKoonar/SFU-weather-twitter-bot)
+A Twitter bot that fetches live weather data for SFU Burnaby and tweets updates using the OpenWeather API.
+#### 🔹 [Pokémon Library](https://github.com/AmarKoonar/Pokemon_Library)
+Pokédex-style web app built with React, Vite, and Bootstrap. Features responsive card layouts, type-based styling, and hover animations. Created to test design ideas and UI component structure.
 
 
 ---

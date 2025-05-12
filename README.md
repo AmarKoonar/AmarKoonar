@@ -1,10 +1,10 @@
-<h1 align="center">Hey there 👋, I'm Amraj Koonar</h1>
+<h1 align="center">Hey there 👋, I'm Amar Koonar</h1>
 <p align="center">
   🚀 CS Student @ SFU | 💻 Full Stack Developer | 🤖 AI & Data Enthusiast
 </p>
 
 <p align="center">
-  <a href="https://amrajkoonar.github.io/" target="_blank">🌐 Portfolio</a> • 
+  <a href="https://amarkoonar.github.io/" target="_blank">🌐 Portfolio</a> • 
   <a href="https://www.linkedin.com/in/amar-koonar-36a186365/" target="_blank">🔗 LinkedIn</a> • 
   <a href="https://github.com/AmarKoonar" target="_blank">🐙 GitHub</a>
 </p>

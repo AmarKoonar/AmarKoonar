@@ -14,8 +14,8 @@
 ### 🧠 About Me
 
 - 🎓 I'm a Computer Science student at Simon Fraser University
-- 🛠️ Passionate about building tools that help people — from **AI-powered quizzes** to **posture-detecting apps**
-- 🔍 Currently diving deep into **full-stack development**, **systems programming**, and **data engineering**
+- 🛠️ Passionate about building tools that solve problems
+- 🔍 Currently diving deep into , **systems programming**, and **relational databases**
 - 📫 Reach me at **ask41@sfu.ca**
 
 ---
@@ -60,12 +60,4 @@ Pokédex-style web app built with React, Vite, and Bootstrap. Features responsiv
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarKoonar&layout=compact&theme=react" />
 </p>
 
----
-
-### 🌀 Fun Fact
-
-I like solving problems that blend **software** with **human behavior** — whether it’s helping students learn better or helping people sit straighter. 
-
----
-
-📬 **Let’s connect and build something awesome together!**
+📬 **Let’s connect and build something cool together!**

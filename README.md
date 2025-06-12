@@ -24,7 +24,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript" />
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js" />

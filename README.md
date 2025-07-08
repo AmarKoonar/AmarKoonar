@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/Styling-TailwindCSS-informational?style=flat&logo=tailwind-css" />
   <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql" />
   <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws" />
 </p>
 
 ---

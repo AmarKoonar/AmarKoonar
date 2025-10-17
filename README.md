@@ -1,6 +1,6 @@
 <h1 align="center">Hey there , I'm Amar Koonar</h1>
 <p align="center">
-   CS Student @ SFU \
+   CS Student @ SFU 
 </p>
 
 <p align="center">

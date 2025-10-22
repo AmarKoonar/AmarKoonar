@@ -1,4 +1,4 @@
-![alt text](./images/Title_top.png)
+![alt text](./images/Title_top1.png)
 
 <p align="center">
   🚀 CS Student @ SFU | 💻 Full Stack Developer | 🤖 AI & Data Enthusiast

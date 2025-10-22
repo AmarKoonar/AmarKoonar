@@ -1,8 +1,9 @@
 ![alt text](./images/Title_top.png)
 
-I'm a developer who loves building full-stack applications and exploring new technologies.  
-I enjoy working with **React, Next.js, and Tailwind CSS**
----
+<p align="center">
+  🚀 CS Student @ SFU | 💻 Full Stack Developer | 🤖 AI & Data Enthusiast
+   CS Student @ SFU 
+</p>
 
 ### 🔧 Tech Stack
 
